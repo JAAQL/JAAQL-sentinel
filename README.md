@@ -3,4 +3,4 @@ JAAQL Sentinel is written in "pure js" that will run on almost every browser. Pl
 
     <script src="JAAQL_sentinel.js" sentinel_location="jaaql.io:8443" app_version="1.0.0" app_name="my-app"></script>  
 
-And it will now sent all errors to https://www.jaaql:8443.io/api/sentinel
+And it will now send all errors to https://www.jaaql:8443.io/api/sentinel
